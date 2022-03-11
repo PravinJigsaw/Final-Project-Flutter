@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "665827614536",
+    "project_id": "flat-share-3198e",
+    "storage_bucket": "flat-share-3198e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665827614536:android:9e4c25df52a3f070379d7d",
+        "android_client_info": {
+          "package_name": "com.example.FlatShare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665827614536-jccdvg5lg4hlme7oivv4hnhcjt067qch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9cirf1pTlOn0Xof9nrSXqnzfUpvhsfBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665827614536-jccdvg5lg4hlme7oivv4hnhcjt067qch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665827614536:android:9e86de53962572e4379d7d",
+        "android_client_info": {
+          "package_name": "com.example.flatshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665827614536-jccdvg5lg4hlme7oivv4hnhcjt067qch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9cirf1pTlOn0Xof9nrSXqnzfUpvhsfBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665827614536-jccdvg5lg4hlme7oivv4hnhcjt067qch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
